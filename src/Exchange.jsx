@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React, { useState } from 'react'
 import './Exchange.css'
 import { Table } from 'react-bootstrap'
 import usd from './img/usa.png'
