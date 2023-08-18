@@ -31,7 +31,6 @@ function Exchange() {
     <div className='exchange'>
     <h2>ОНЛАЙН КУРС ВАЛЮТ</h2>
   
-
             <Table>
            <tbody>
 
